@@ -9,7 +9,7 @@ import re
 def get_entry(word):
     '''
     Return entry or None if there is no entry for the given word.
-    The function scraps the "https://sjp.pwn.pl" webpage to find the entry.
+    The function scraps the "https://sjp.pwn.pl" website to find the entry.
     '''
     url = 'https://sjp.pwn.pl/szukaj/'
     page = requests.get(url + word + '.html')

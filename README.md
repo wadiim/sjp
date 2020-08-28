@@ -1,6 +1,6 @@
 # Sjp
 
-A cli program which prints definitions of Polish words. It scraps the <https://sjp.pwn.pl> webpage to find entries.
+A cli program which prints definitions of Polish words. It scraps the <https://sjp.pwn.pl> website to find entries.
 
 ## Usage
 ```sh
